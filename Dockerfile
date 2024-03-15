@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.13.0a4-alpine
 # ARG DB_USER_NAME
 # ARG DB_PASSWORD
 # ARG DB_NAME
