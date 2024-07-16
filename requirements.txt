@@ -13,3 +13,4 @@ opentelemetry-sdk
 opentelemetry-distro
 psycopg2-binary
 flask_cors
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
